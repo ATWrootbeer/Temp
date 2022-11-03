@@ -1,2 +1,1 @@
-# Yee
-You already know 
+Terminated
